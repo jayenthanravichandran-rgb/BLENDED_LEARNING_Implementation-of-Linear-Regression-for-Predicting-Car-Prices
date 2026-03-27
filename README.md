@@ -135,7 +135,9 @@ else:
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+<img width="1002" height="501" alt="image" src="https://github.com/user-attachments/assets/665ba0de-a06d-4e8f-84df-4293626348e6" />
+<img width="997" height="544" alt="image" src="https://github.com/user-attachments/assets/f64ffa62-7dcd-44bb-bef3-990639895b03" />
+
 
 
 ## Result:
