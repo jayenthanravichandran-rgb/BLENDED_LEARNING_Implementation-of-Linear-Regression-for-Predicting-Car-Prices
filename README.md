@@ -8,10 +8,54 @@ To write a program to predict car prices using a linear regression model and tes
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+# Algorithm
+# -------------------------------
+# Step 1: Start the program.
+#
+# Step 2: Import required libraries:
+#         numpy, pandas, matplotlib, sklearn modules.
+#
+# Step 3: Load or create the dataset containing features such as
+#         wheelbase, curbweight, enginesize, horsepower, and target price.
+#
+# Step 4: Display dataset preview to understand the data.
+#
+# Step 5: Separate independent variables (X) and dependent variable (y).
+#
+# Step 6: Split the dataset into training and testing sets
+#         using train_test_split().
+#
+# Step 7: Perform feature scaling using StandardScaler
+#         to normalize input features.
+#
+# Step 8: Apply Linear Regression:
+#         a) Create LinearRegression model.
+#         b) Train the model using training data.
+#         c) Predict values using test data.
+#
+# Step 9: Evaluate Linear Regression model:
+#         a) Calculate Mean Squared Error (MSE).
+#         b) Calculate R² Score.
+#
+# Step 10: Apply Polynomial Regression:
+#          a) Transform features using PolynomialFeatures (degree = 2).
+#          b) Train LinearRegression model on transformed data.
+#          c) Predict values using test data.
+#
+# Step 11: Evaluate Polynomial Regression model:
+#          a) Calculate Mean Squared Error (MSE).
+#          b) Calculate R² Score.
+#
+# Step 12: Visualize results:
+#          a) Plot Actual vs Predicted prices for Linear Regression.
+#          b) Plot Actual vs Predicted prices for Polynomial Regression.
+#
+# Step 13: Compare R² scores of both models and determine
+#          which model performs better.
+#
+# Step 14: Display conclusion.
+#
+# Step 15: Stop the program. 
 
 ## Program:
 ```
@@ -19,7 +63,7 @@ To write a program to predict car prices using a linear regression model and tes
 Program to implement Linear and Polynomial Regression
 for predicting car prices and evaluating model performance.
 
-Developed by: J Jayenthan
+Developed by: R Jayenthan
 Register Number: 212225240057
 """
 
